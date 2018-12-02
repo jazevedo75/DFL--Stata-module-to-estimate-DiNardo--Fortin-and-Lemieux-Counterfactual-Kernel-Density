@@ -10,11 +10,11 @@ dfl estimates DiNardo, Fortin and Lemieux Counterfactual Kernel Densities. graph
 
 ## References
 
-    DiNardo, J., N.M. Fortin, and T.Lemieux (1996) "Labour Market Insitutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach," Econometrica, 64(5): 1001-1044.
+DiNardo, J., N.M. Fortin, and T.Lemieux (1996) "Labour Market Insitutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach," Econometrica, 64(5): 1001-1044.
+Van Kerm, P. (2003) "Adaptive kernel density estimation."The Stata Journal , 3(2): 148-156.
 
-    Van Kerm, P. (2003) "Adaptive kernel density estimation."The Stata Journal , 3(2): 148-156.
-
-### Note: This module should be installed from within Stata by typing "ssc install dfl". Windows users should not attempt to download these files with a web browser.
+### Note: 
+This module should be installed from within Stata by typing "ssc install dfl". Windows users should not attempt to download these files with a web browser.
 
 ### Keywords
 kernel density; counterfactual; DiNardo; Fortin; Lemieux;
