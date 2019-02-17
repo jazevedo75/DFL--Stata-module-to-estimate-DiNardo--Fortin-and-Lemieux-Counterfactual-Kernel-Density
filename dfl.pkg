@@ -1,7 +1,7 @@
-v 0.0.0
-d 'DFL' 
+v 2.0
+d 'DFL': Stata module to estimate DiNardo, Fortin and Lemieux Counterfactual Kernel Density
 d 
-d Distribution-Date: 
+d Distribution-Date: 20101220
 d License: MIT
 d 
 F src/d/dfl.ado
